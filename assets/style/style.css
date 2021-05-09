@@ -599,6 +599,7 @@ footer small{
 .project .project-item-inner .project-info{
   padding: 30px 15px;
   background-color: #fdf9ff;
+  height:100%;
 
 }
 .project .project-item-inner .project-info .project-title{
@@ -615,6 +616,7 @@ footer small{
   font-weight: 400;
   margin-bottom: 15px;
 }
+
 
 
 /* Contact Section */
